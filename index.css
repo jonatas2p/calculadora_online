@@ -1,0 +1,39 @@
+.calculadora {
+    margin: 3em auto;
+    border: solid 1px #000;
+    padding: 20px;
+    background-image: linear-gradient(135deg, #c207e7 15%,#7b12d1 30%,#3b38e7 45%, #0db9b0 90%);
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px #000;
+
+}
+
+.btn {
+    width: 60px;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 1px 1px 1px #000;
+}
+
+.clear {
+    width: 130px;
+}
+
+.enter {
+    height: 110px;
+}
+
+.zero {
+    width: 130px;
+}
+
+.resultado {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+body {
+    background: #d6d6d6
+}
